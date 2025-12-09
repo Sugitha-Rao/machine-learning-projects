@@ -4,15 +4,15 @@ This repository contains a curated dataset created for predicting Graduate Admis
 It is designed for machine learning beginners and enthusiasts to build regression models, evaluate feature importance, and experiment with end-to-end ML workflows.
 
 **Dataset Description**
-The dataset includes the following columns:
-GRE Score (out of 340)
-TOEFL Score (out of 120)
-University Rating (1–5)
-SOP Strength (1–5)
-LOR Strength (1–5)
-Undergraduate GPA (out of 10)
-Research Experience (0 or 1)
-Chance of Admit (target variable)
+- The dataset includes the following columns:
+- GRE Score (out of 340)
+- TOEFL Score (out of 120)
+- University Rating (1–5)
+- SOP Strength (1–5)
+- LOR Strength (1–5)
+- Undergraduate GPA (out of 10)
+- Research Experience (0 or 1)
+- Chance of Admit (target variable)
 
 **Repo Structure**
 ├── data/
