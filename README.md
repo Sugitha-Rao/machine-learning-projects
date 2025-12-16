@@ -1,6 +1,6 @@
 # Machine Learning 
 
-This repository contains my learning journey through **Machine Learning** and **Deep Learning** concepts.  
+This repository contains my learning journey through **Machine Learning** and **basic Deep Learning** concepts.  
 I explore core algorithms from scratch and using libraries like `scikit-learn`, `pandas`, and `tensorflow/keras`.
 
 ---
@@ -19,10 +19,9 @@ I explore core algorithms from scratch and using libraries like `scikit-learn`, 
 ---
 
 ## Tech Stack
-- Python 
+- Python 🐍
 - NumPy, Pandas, Matplotlib, Seaborn
 - Scikit-learn
 - TensorFlow / Keras (for basic NN)
-- NLP with NLTK
 
 ---
