@@ -20,8 +20,8 @@ Using a learning rate scheduler helps the model adapt its step size during train
     <td align="center"><b>After LR Scheduler</b><br><i>(Optimized/Decayed LR - Clean decision boundary)</i></td>
   </tr>
   <tr>
-    <td><img src="assets/before_lrscheduler.png" width="400"></td>
-    <td><img src="assets/after_lrscheduler.png" width="400"></td>
+    <td><img src="assets/before_lrscheduler.png" width="600"></td>
+    <td><img src="assets/after_lrscheduler.png" width="600"></td>
   </tr>
 </table>
 
